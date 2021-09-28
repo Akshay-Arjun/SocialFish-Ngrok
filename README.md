@@ -1,17 +1,9 @@
 # SOCIAL FISH
-
+The old version. (Ngrok Integrated)
 **ONLY DOWNLOAD IT HERE, DO NOT TRUST IN OTHER PLACES.**
 
-This is the official and only repository of the SocialFish project.
+The files are from the official repository of the SocialFish project.
 
-### MAINTAINERS
-
-- **Alisson Moretto**, Twitter: [@A1S0N_][tw-alisson], Github: [@A1S0N][git-alisson]
-- **Vandré Augusto**, Twitter: [@dr1nKoRdi3][tw-drink], Github: [@dr1nK0Rdi3][git-drink]
-
-##### OTHER CONTRIBUTORS
-- **greenmind-sec** [ Using Docker #46 ][pull-grenmind-sec]
-- **tatsuryu** [Using context manager to control external processes #55][pull-tatsuryu] | [Added menu submodule #68][pull-tatsuryu2]
 
 ##### PREREQUISITES
 
@@ -29,13 +21,13 @@ This is the official and only repository of the SocialFish project.
 ### CLONE
 
 ```sh
-$ git clone https://github.com/UndeadSec/SocialFish.git
+$ git clone https://github.com/Akshay-Arjun/SocialFish-Ngrok
 ```
 
 ### RUNNING
 
 ```sh
-$ cd SocialFish
+$ cd SocialFish-Ngrok
 $ sudo apt-get install python3-pip php unzip -y
 $ sudo pip3 install -r requirements.txt
 $ python3 SocialFish.py
@@ -45,8 +37,8 @@ $ python3 SocialFish.py
 
 ```sh
 $ pkg install python php curl git unzip
-$ git clone https://github.com/UndeadSec/SocialFish.git
-$ cd SocialFish
+$ git clone https://github.com/Akshay-Arjun/SocialFish-Ngrok
+$ cd SocialFish-Ngrok
 $ pip install -r requirements.txt
 $ python SocialFish.py
 ```
@@ -63,7 +55,6 @@ Using image
 $ sudo docker run -it --rm "socialfish"
 ```
 
-**VIDEO DEMO:** [https://youtu.be/FMYdnzjEBiQ][yt-demo]
 
 
 ### AVAILABLE PAGES
@@ -102,13 +93,13 @@ $ sudo docker run -it --rm "socialfish"
 **PULL REQUESTS ARE WELCOME**
 
 ### SCREENSHOT
-![Shot](https://github.com/UndeadSec/SocialFish/blob/master/Images/sc.png)
+![Shot](https://github.com/Akshay-Arjun/SocialFish-Ngrok/blob/master/Images/sc.png)
 
 ## DISCLAIMER
 
 TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 
-The use of the SocialFish is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program.
+The use of the SocialFish-Ngrok is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program.
 
 "DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
 FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
@@ -151,21 +142,11 @@ Taken from [LICENSE](LICENSE).
 
 
 
-### DONATION
+### DONATION 
 If you liked our work and want to support us, you may donate :D
-
-![donation](https://raw.githubusercontent.com/UndeadSec/SocialFish/master/Images/donation.png)
+</br> To Original Creators.
+![donation](https://raw.githubusercontent.com/Akshay-Arjun/SocialFish-Ngrok/master/Images/donation.png)
 
 Bitcoin Address: 1EmJ5KiAKzpyqGGHopAq9qukrVPS47T9bA
 
-[//]: # (links references)
-
-[tw-alisson]: <https://twitter.com/A1S0N_>
-[git-alisson]: <https://github.com/A1S0N>
-[tw-drink]: <https://twitter.com/Dr1nkOrdi3>
-[git-drink]: <https://github.com/dr1nk0rdi3>
-[pull-grenmind-sec]: <https://github.com/UndeadSec/SocialFish/pull/46>
-[pull-tatsuryu]: <https://github.com/UndeadSec/SocialFish/pull/55>
-[pull-tatsuryu2]: <https://github.com/UndeadSec/SocialFish/pull/68>
-[yt-demo]: <https://youtu.be/FMYdnzjEBiQ>
 

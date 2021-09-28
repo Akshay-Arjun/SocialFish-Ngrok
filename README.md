@@ -1,5 +1,6 @@
 # SOCIAL FISH
 The old version. (Ngrok Integrated)
+</br>
 **ONLY DOWNLOAD IT HERE, DO NOT TRUST IN OTHER PLACES.**
 
 The files are from the official repository of the SocialFish project.
@@ -93,7 +94,7 @@ $ sudo docker run -it --rm "socialfish"
 **PULL REQUESTS ARE WELCOME**
 
 ### SCREENSHOT
-![Shot](https://github.com/Akshay-Arjun/SocialFish-Ngrok/blob/master/Images/sc.png)
+![Shot](https://raw.githubusercontent.com/Akshay-Arjun/SocialFish-Ngrok/main/Images/sc.png)
 
 ## DISCLAIMER
 

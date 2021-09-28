@@ -93,7 +93,7 @@ $ sudo docker run -it --rm "socialfish"
 **PULL REQUESTS ARE WELCOME**
 
 ### SCREENSHOT
-![Shot](https://github.com/Akshay-Arjun/SocialFish-Ngrok/blob/master/Images/sc.png)
+![Shot](https://github.com/Akshay-Arjun/SocialFish-Ngrok/master/Images/sc.png)
 
 ## DISCLAIMER
 

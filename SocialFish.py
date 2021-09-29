@@ -2,13 +2,13 @@
 
 ######################################################
 #                                                    #
-#       SOCIALFISH v2.0sharkNet                      #
 #                                                    #
-# by:     UNDEADSEC                                  #
 #                                                    #
-# Telegram Group: https://t.me/UndeadSec             #
-# YouTube Channel: https://youtube.com/c/UndeadSec   #
-# Twitter: https://twitter.com/A1S0N_                #
+#                                                    #
+#         SOCIALFISH v2.0                            #
+#                                                    #
+#                                                    #
+#                                                    #
 #                                                    #
 ######################################################
 

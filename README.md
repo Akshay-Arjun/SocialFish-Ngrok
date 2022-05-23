@@ -1,9 +1,13 @@
 # SOCIAL FISH
 The old version. (Ngrok Integrated)
 </br>
-**ONLY DOWNLOAD IT HERE, DO NOT TRUST IN OTHER PLACES.**
 
-The files are from the official repository of the SocialFish project.
+## PLEASE READ THIS
+Chrome and other web browsers are able to detect phishing attempt when NGROK is used, So Please use [69phisher](https://github.com/Akshay-Arjun/69phisher) . [69Phisher](https://github.com/Akshay-Arjun/69phisher) uses cloudflared tunneling and is completely undetectable by web browsers.
+</br>
+
+
+## The files are from the official repository of the SocialFish project.
 
 
 ##### PREREQUISITES
